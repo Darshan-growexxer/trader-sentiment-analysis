@@ -6,7 +6,7 @@
 This project analyzes how Bitcoin's market sentiment (Fear vs. Greed) influences trader behavior and profitability on the Hyperliquid platform. The goal is to uncover behavioral patterns to inform smarter, automated trading strategies and risk-management protocols.
 
 ## 📂 Repository Structure
-* `data/` : Contains the two datasets (`fear_greed_index.csv` and `historical_data.csv`).
+* `data_needed/` : Contains the two datasets (`fear_greed_index.csv` and `historical_data.csv`).
 * `analysis.ipynb` : The main Jupyter Notebook containing data cleaning, feature engineering, analysis, and visualizations.
 * `requirements.txt` : Python dependencies required to run the notebook.
 * `README.md` : Project summary and findings.
